@@ -1,0 +1,13 @@
+class_header: time.hpp
+class_name: Time
+constructors:
+- []
+- [uint]
+- [uint, uint, const uint]
+methods:
+- name: "set"
+  args: [uint]
+- name: "zero"
+  args: []
+
+http://jinja.quantprogramming.com/
