@@ -1,3 +1,5 @@
+# See [classfuzzgen](https://github.com/k0tran/classfuzzgen)
+
 # CFuzz (alpha)
 
 For now this is prototype for harness function generator for C++ class using libclang
